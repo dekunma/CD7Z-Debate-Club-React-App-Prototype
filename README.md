@@ -1,4 +1,4 @@
-成都七中国际部美辩社手机软件（原型）
+成都七中国际部美辩社手机软件（原型）\n
 Chengdu No.7 Debate Club Mobile Software
 
 使用React建立
