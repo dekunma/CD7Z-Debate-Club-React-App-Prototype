@@ -64,7 +64,7 @@ class RecipeReviewCard extends React.Component {
   }
 
   getPosts(){
-    const url = "http://www.7debate.club/wp-json/wp/v2/posts";
+    const url = "http://www.7debate.club/wp-json/wp/v2/posts?per_page=30";
     this.setState({loading:true});
     axios.get(url)
     .then(
